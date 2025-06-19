@@ -62,5 +62,5 @@ $SharedLinks = Get-SharedLinksViaAPI `
     -TenantId "aqui tu_tenant_id" `
     -ClientId "aqui tu_client_id" `
     -ClientSecret "aqui tu_client_secret" `
-    -TargetUser "shirley.saenz@icebergci.com" `
+    -TargetUser "correo@dominio.com" `
     -ExportPath "C:\Users\user\Desktop\SharedLinks_Audit.csv"
